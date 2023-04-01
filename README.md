@@ -10,5 +10,5 @@ Overall, this React.js app is an excellent example of the potential for creating
 
 ## Technologies used:
 
-React.js
-CSS
+* React.js
+* CSS
